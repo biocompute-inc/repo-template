@@ -2,7 +2,7 @@
 
 ## Reporting Vulnerabilities
 If you discover a security issue, **do not open a public issue**.
-Please email: security@yourcompany.com
+Please email: electronics@biocomputeinc.com
 
 We aim to respond within 48 hours.
 
